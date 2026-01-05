@@ -30,10 +30,7 @@ This project also saves calculation history to both **TXT** and **JSON** files.
 ---
 
 ## 📂 Project Structure
-├── soal9.js 
-├── history.txt 
-├── history.json 
-└── README.md
+├── soal9.js ├── history.txt ├── history.json └── README.md
 ---
 
 ## ▶️ How to Run
